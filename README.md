@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi ,I'm Soufiane Kremcht 👋
+Currently a Android Developer🔭
 
+Hey, I'm Aidan 👋 (with an 'a' 😉)
+Currently a Senior Android Engineer at Square.
+
+Check out my website, Twitter, and Instagram!
 <!--
 **SoufianeKreX/SoufianeKreX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
