@@ -1,5 +1,5 @@
-### Hey ,I'm Soufiane Kremcht 👋
-Currently a Android Developer 🔭.
+### Hey , my name is Soufiane Kremcht 👋
+Currently an Android Developer 🔭.
 
 <!--
 **SoufianeKreX/SoufianeKreX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
