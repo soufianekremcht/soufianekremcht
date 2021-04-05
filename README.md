@@ -1,4 +1,4 @@
-### Hey , my name is Soufiane Kremcht 👋
+### Hi! , my name is Soufiane Kremcht 👋
 Currently an Android Developer 🔭.
 
 <!--
