@@ -1,6 +1,6 @@
 
-<h3>Hi! , my name is Soufiane Kremcht 👋</h1>
-<h5>Currently an Android Developer 🔭.</h3>
+<h3>Hi! ,My name is Soufiane Kremcht 👋</h1>
+<h4>Currently an Android Developer 🔭.</h3>
 
 
 <!--
