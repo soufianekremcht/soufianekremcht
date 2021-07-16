@@ -1,6 +1,8 @@
-### Hi! , my name is Soufiane Kremcht 👋
-Currently an Android Developer 🔭.
 
+<h1 align="center">Hi! , my name is Soufiane Kremcht 👋</h1>
+<h3 align="center">Currently an Android Developer 🔭.</h3>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soufianekremcht&show_icons=true&locale=en" alt="soufianekremcht" /></p>
 <!--
 **SoufianeKreX/SoufianeKreX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
