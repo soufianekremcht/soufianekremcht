@@ -1,7 +1,7 @@
 
 ### Hi, My name is Soufiane Kremcht 👋
 
-*Currently an Android Develeper .*
+*Currently Learning New Stuff & Coding in my free Time .*
 
 <!--
 
